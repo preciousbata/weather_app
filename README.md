@@ -11,3 +11,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with BLoc, view our
 [online documentation](https://bloclibrary.dev/#/), which offers tutorials,
 samples, guidance on bloc.
+
+![weather_app_homescreen](https://user-images.githubusercontent.com/42701343/192404001-03b748e1-5a1b-473f-8257-addc9b1dec47.png)
+![weather_app_result](https://user-images.githubusercontent.com/42701343/192404145-73383df4-8129-4554-ba27-c0b122aa2afd.png)
